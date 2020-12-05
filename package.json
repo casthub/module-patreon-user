@@ -1,0 +1,15 @@
+{
+    "name": "patreon-user",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "Apache-2.0",
+    "casthub": {
+        "width": 6,
+        "height": 5,
+        "min_width": 6,
+        "min_height": 5,
+        "max_width": 9,
+        "max_height": 6,
+        "actions": "light"
+    }
+}
